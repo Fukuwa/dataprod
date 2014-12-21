@@ -11,7 +11,7 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## About passowords
+## About passwords
 
 A few notices:
 Passwords are often too easy to guess.
